@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\bin\Debug\netcoreapp3.1\Prueba1.Core.Domain.deps.json
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\bin\Debug\netcoreapp3.1\Prueba1.Core.Domain.runtimeconfig.json
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\bin\Debug\netcoreapp3.1\Prueba1.Core.Domain.runtimeconfig.dev.json
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\bin\Debug\netcoreapp3.1\Prueba1.Core.Domain.dll
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\bin\Debug\netcoreapp3.1\Prueba1.Core.Domain.pdb
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.dll
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.pdb
+C:\Users\User\source\repos\Prueba1\Prueba1.Core.Domain\obj\Debug\netcoreapp3.1\Prueba1.Core.Domain.genruntimeconfig.cache
